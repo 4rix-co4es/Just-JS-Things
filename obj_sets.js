@@ -1,5 +1,21 @@
 const obj = {};     //add properties to this object, values can be primitive or obj
 
+
+
+
+let name = "aj";
+let grade = "A";
+
+// can also be declared globally as :
+const user = {
+    name :"aj",
+    grade:"A"
+}
+
+
+
+
+
 obj.Age = 25; // property with value
 console.log(obj.Age);
 
