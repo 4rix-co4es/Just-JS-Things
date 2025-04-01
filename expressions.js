@@ -85,3 +85,8 @@ console.log(r) // r is not defined (since its not in object array declaration)
 
 //let [p,q,...rest] = arr
 console.log(rest); // 4 5 6 7
+
+const f = function(){
+    //statements
+}
+f();  // called function
